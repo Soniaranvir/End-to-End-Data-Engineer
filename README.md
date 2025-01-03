@@ -1,9 +1,4 @@
 
-
-Here's the updated **GitHub summary** reflecting your Power BI visualizations:
-
----
-
 # 📰 **Bing News Analytics Platform Using Microsoft Fabric**
 
 ✨ **Overview**
