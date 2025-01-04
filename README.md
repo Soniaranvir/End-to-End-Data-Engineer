@@ -65,9 +65,7 @@ This repository showcases an **end-to-end data engineering pipeline** built enti
 - **Real-Time Updates**: Automatically fetches the latest news.
 - **Sentiment Analysis Visuals**: Displays sentiment breakdowns.
 - **Filterable Views**: Dynamic date filters for customized insights.
-
-![Dashboard Preview](<iframe title="newsdashboard" width="1140" height="541.25" src="https://app.fabric.microsoft.com/reportEmbed?reportId=472bea21-396b-4596-b0b7-a52f94b9f782&autoAuth=true&ctid=eb34f74a-58e7-4a8b-9e59-433e4c412757" frameborder="0" allowFullScreen="true"></iframe>)
-
+  
 ---
 
 ## 🏗️ Workflow
@@ -131,5 +129,4 @@ This repository showcases an **end-to-end data engineering pipeline** built enti
 ---
 
 ### 🔗 [Live Dashboard](#)
-Click here to explore the live version of the Power BI dashboard!
-
+<iframe title="newsdashboard" width="1140" height="541.25" src="https://app.fabric.microsoft.com/reportEmbed?reportId=472bea21-396b-4596-b0b7-a52f94b9f782&autoAuth=true&ctid=eb34f74a-58e7-4a8b-9e59-433e4c412757" frameborder="0" allowFullScreen="true"></iframe>
