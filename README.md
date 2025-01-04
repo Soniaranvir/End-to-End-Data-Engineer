@@ -53,6 +53,7 @@ This repository showcases an **end-to-end data engineering pipeline** built enti
 - Created a **dynamic dashboard** to display:
   - Latest news articles (published within the last 24 hours).
   - Sentiment distribution across news articles.
+- Explored Copilot Feature: Leveraged the Copilot tool in Microsoft Fabric to auto-generate a dashboard. This feature provided a strong starting point, which was then customized to meet project requirements.
 - Configured to update automatically with each pipeline run.
 
 ### 5. **Real-Time Alerts with Data Activator**
@@ -131,6 +132,8 @@ This repository showcases an **end-to-end data engineering pipeline** built enti
 ### 🔗 ## Live Dashboard
 
 Check out the live version of the dashboard [here](https://app.fabric.microsoft.com/reportEmbed?reportId=472bea21-396b-4596-b0b7-a52f94b9f782&autoAuth=true&ctid=eb34f74a-58e7-4a8b-9e59-433e4c412757).
+
+You can access the live Co-Pilot feature dashboard [here](https://app.fabric.microsoft.com/reportEmbed?reportId=472bea21-396b-4596-b0b7-a52f94b9f782&autoAuth=true&ctid=eb34f74a-58e7-4a8b-9e59-433e4c412757).
 
 > **Note:** Access to the dashboard may require appropriate permissions and login credentials.
 
