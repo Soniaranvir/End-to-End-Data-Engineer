@@ -1,7 +1,5 @@
 # Bing News Data Analytics Platform
 
-![Microsoft Fabric Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_logo_%282012%29.svg/1920px-Microsoft_logo_%282012%29.svg.png)
-
 ## 🚀 Project Overview
 This repository showcases an **end-to-end data engineering pipeline** built entirely using **Microsoft Fabric**. The project focuses on ingesting, processing, and visualizing Bing News data, while also incorporating **sentiment analysis** and **real-time alerts**. The result is a robust news analytics platform that provides actionable insights into the latest news.
 
