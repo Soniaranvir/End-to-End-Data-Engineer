@@ -128,5 +128,10 @@ This repository showcases an **end-to-end data engineering pipeline** built enti
 
 ---
 
-### 🔗 <a href = https://app.fabric.microsoft.com/reportEmbed?reportId=472bea21-396b-4596-b0b7-a52f94b9f782&autoAuth=true&ctid=eb34f74a-58e7-4a8b-9e59-433e4c412757> </a> [Live Dashboard](#)
+### 🔗 ## Live Dashboard
+
+Check out the live version of the dashboard [here](https://app.fabric.microsoft.com/reportEmbed?reportId=472bea21-396b-4596-b0b7-a52f94b9f782&autoAuth=true&ctid=eb34f74a-58e7-4a8b-9e59-433e4c412757).
+
+> **Note:** Access to the dashboard may require appropriate permissions and login credentials.
+
 
