@@ -66,7 +66,7 @@ This repository showcases an **end-to-end data engineering pipeline** built enti
 - **Sentiment Analysis Visuals**: Displays sentiment breakdowns.
 - **Filterable Views**: Dynamic date filters for customized insights.
 
-![Dashboard Preview](https://via.placeholder.com/800x400)
+![Dashboard Preview](https://github.com/Soniaranvir/End-to-End-Data-Engineer/blob/main/newsdashboard.pdf/800x400)
 
 ---
 
