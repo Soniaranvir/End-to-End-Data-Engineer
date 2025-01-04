@@ -1,3 +1,7 @@
+
+![Bing API](https://github.com/user-attachments/assets/8dfab9a2-6ea2-4f62-be12-c6280d7edaec)
+
+
 # Bing News Data Analytics Platform
 
 ## 🚀 Project Overview
