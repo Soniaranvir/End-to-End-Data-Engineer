@@ -133,7 +133,9 @@ This repository showcases an **end-to-end data engineering pipeline** built enti
 
 Check out the live version of the dashboard [here](https://app.fabric.microsoft.com/reportEmbed?reportId=472bea21-396b-4596-b0b7-a52f94b9f782&autoAuth=true&ctid=eb34f74a-58e7-4a8b-9e59-433e4c412757).
 
-You can access the live Co-Pilot feature dashboard [here](https://app.fabric.microsoft.com/reportEmbed?reportId=472bea21-396b-4596-b0b7-a52f94b9f782&autoAuth=true&ctid=eb34f74a-58e7-4a8b-9e59-433e4c412757).
+## Co-Pilot feature dashboard 
+<img width="1263" alt="Screenshot 2025-01-04 at 1 24 02 AM" src="https://github.com/user-attachments/assets/a580799a-9a76-4726-a596-7039101d6a46" />
+
 
 > **Note:** Access to the dashboard may require appropriate permissions and login credentials.
 
